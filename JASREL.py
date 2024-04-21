@@ -7,4 +7,4 @@ os.system("git pull")
 try:
     importlib.import_module("jasrel").menu() 
 except Exception as e: 
-    exit(str(e)
+    exit(str(e))
